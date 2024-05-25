@@ -1,0 +1,10 @@
+[package]
+name = "container_new_process_detector"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+chrono = "0.4"
+
